@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.6](https://github.com/cloudquery/cloudquery/compare/plugins-destination-duckdb-v4.2.5...plugins-destination-duckdb-v4.2.6) (2023-08-31)
+
+
+### Bug Fixes
+
+* **deps:** Update module github.com/cloudquery/plugin-sdk/v4 to v4.6.0 ([#13492](https://github.com/cloudquery/cloudquery/issues/13492)) ([c305876](https://github.com/cloudquery/cloudquery/commit/c305876e3d92944aa6c1a26547f786fdc5b50e23))
+
 ## [4.2.5](https://github.com/cloudquery/cloudquery/compare/plugins-destination-duckdb-v4.2.4...plugins-destination-duckdb-v4.2.5) (2023-08-29)
 
 
