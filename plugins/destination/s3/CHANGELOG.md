@@ -1,5 +1,18 @@
 # Changelog
 
+## [4.7.0](https://github.com/cloudquery/cloudquery/compare/plugins-destination-s3-v4.6.4...plugins-destination-s3-v4.7.0) (2023-08-31)
+
+
+### Features
+
+* Add `use_path_style` ([#13551](https://github.com/cloudquery/cloudquery/issues/13551)) ([0c1b19d](https://github.com/cloudquery/cloudquery/commit/0c1b19d9547d27cbad274212fb8fc9adb9b4191c)), closes [#13260](https://github.com/cloudquery/cloudquery/issues/13260)
+
+
+### Bug Fixes
+
+* **deps:** Update module github.com/cloudquery/filetypes/v4 to v4.1.8 ([#13554](https://github.com/cloudquery/cloudquery/issues/13554)) ([6cecf5d](https://github.com/cloudquery/cloudquery/commit/6cecf5dfd52cd9fe86dc60cd3fc235e380750ffe))
+* **deps:** Update module github.com/cloudquery/plugin-sdk/v4 to v4.6.0 ([#13492](https://github.com/cloudquery/cloudquery/issues/13492)) ([c305876](https://github.com/cloudquery/cloudquery/commit/c305876e3d92944aa6c1a26547f786fdc5b50e23))
+
 ## [4.6.4](https://github.com/cloudquery/cloudquery/compare/plugins-destination-s3-v4.6.3...plugins-destination-s3-v4.6.4) (2023-08-30)
 
 
